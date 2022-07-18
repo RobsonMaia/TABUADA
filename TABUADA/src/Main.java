@@ -8,13 +8,13 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 
 		int cont = 0;
-		int n, m;
+		double n, m;
 
 		System.out.println("---------------------------");
-		System.out.println("QUAL TABUADA VOCÊ QUER VER?");
+		System.out.println("QUAL TABUADA VOCï¿½ QUER VER?");
 		System.out.println("---------------------------");
 		System.out.println("   ");
-		n = sc.nextInt();
+		n = sc.nextDouble();
 		System.out.println("  ");
 		while (cont <= 10) {
 			m = n * cont; 
