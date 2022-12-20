@@ -11,7 +11,7 @@ public class Main {
 		int n, m;
 
 		System.out.println("---------------------------");
-		System.out.println("QUAL TABUADA VOCÊ QUER VER?");
+		System.out.println("QUAL TABUADA VOCï¿½ QUER VER?");
 		System.out.println("---------------------------");
 		System.out.println("   ");
 		n = sc.nextInt();
